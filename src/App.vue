@@ -5,6 +5,7 @@
      <p>删除todo</p>
      <p>过滤todo</p>
      <p>编辑todo</p>
+     <p>清除已完成todo</p>
   </div>
 </template>
 
